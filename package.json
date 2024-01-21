@@ -1,0 +1,14 @@
+{
+    "name": "nodejs_mqtt_client",
+    "version": "1.0.0",
+    "description": "Node.js MQTT Client",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "mqtt": "^4.2.7"
+    },
+    "author": "MakerArkas"
+  }
+  
